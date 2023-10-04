@@ -1,6 +1,16 @@
 # Montana Tech GitHub Basics Lab
 In this lab, you will become familiar with GitHub as well as the importance of it.
 
+## Submission Information
+**Name:** Jason Decker
+**Course:** CSCI232 Data Structures and Algorithms
+**Due:** October 11, 2023
+**GitHub:** [View the rest of my GitHub here](https://github.com/jdecker-3)
+**Favorites:** 2-Stroke Dirt Bikes
+- Huzqvarna TE300i
+- KTM 300 XC
+- Beta 300 RR
+
 ## Objectives
 - Learn how to fork a repository
 - Learn how to clone a repository
